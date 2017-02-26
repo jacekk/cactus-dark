@@ -8,14 +8,14 @@ projects_url: http://github.com/jacekk
 
 customize:
     gravatar:
-        email: 
+        email:
     logo:
         enabled: true
         width: 50
         height: 50
         url: /images/logo.png
         gravatar: false
-    favicon: 
+    favicon:
       # eg. generate with http://realfavicongenerator.net/
       desktop:
         url: /images/favicon.ico
@@ -39,7 +39,7 @@ rss: atom.xml
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
+    disqus_shortname: jacekk-github-io # Disqus Comments Shortname
     google_analytics: UA-90583873-7 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
